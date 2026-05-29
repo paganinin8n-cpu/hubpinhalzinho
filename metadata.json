@@ -1,0 +1,6 @@
+{
+  "name": "HUB Pinhalzinho Indústria+",
+  "description": "Plataforma de inteligência territorial e diplomacia industrial para conectar indústrias, universidades, poder público e empreendedores locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
